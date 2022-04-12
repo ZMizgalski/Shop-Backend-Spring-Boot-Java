@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -34,9 +33,6 @@ List the ready features here:
 - Lombok
 - Spring security
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
 ## Setup
 - Gradle
 - Java 14
@@ -46,7 +42,7 @@ List the ready features here:
 ## Usage
 1. Create a folder named you like.
 2. Inside your folder open console and paste: git clone https://github.com/ZMizgalski/Shop-Backend-Spring-Boot-Java.git
-3. Then you are rady to go just open it in any Editor. (I prefer Intellij Idea Community) ![Download here](https://www.jetbrains.com/idea/download/#section=windows)
+3. Then you are rady to go just open it in any Editor. (I prefer Intellij Idea Community) [Download here](https://www.jetbrains.com/idea/download/#section=windows)
 
 ## Project Status
 Project is:  _complete_ .
