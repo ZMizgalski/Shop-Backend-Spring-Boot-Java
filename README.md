@@ -1,6 +1,6 @@
 
 # Shop-Backend-Spring-Boot-Java
-> This is an example of the basic shop backend made with Java 14 and Spring Boot.
+> Basic shop backend made with Java 14 and Spring Boot.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,27 +14,25 @@
 * [Contact](#contact)
 * [License](#license)
 
-
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- This project is a modified version of library back-end and was made to get my internship in ![Andea](https://www.andea.com/). My task was to create a library orders and readers. I upgraded it a little bit because I added an admin panel when you can add your content dynamically.
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+- JWT tokens
+- MongoDB database
+- Argon2id
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+- Argon password haser
+- Reset password form
+- Mail service
+- MongoDB database
+- Jwt
+- @PreAutorized() requests
+- Thymeleaf
+- Lombok
+- Spring security
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -44,7 +42,6 @@ List the ready features here:
 - Java 14
 - Mail Config
 - MongoDB database
-
 
 ## Usage
 1. Create a folder named you like.
