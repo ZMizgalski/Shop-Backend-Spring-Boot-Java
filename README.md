@@ -15,7 +15,7 @@
 * [License](#license)
 
 ## General Information
-- This project is a modified version of library back-end and was made to get my internship in ![Andea](https://www.andea.com/). My task was to create a library orders and readers. I upgraded it a little bit because I added an admin panel when you can add your content dynamically.
+- This project is a modified version of library back-end and was made to get my internship in [Andea](https://www.andea.com/). My task was to create a library orders and readers. I upgraded it a little bit because I added an admin panel when you can add your content dynamically.
 
 ## Technologies Used
 - JWT tokens
